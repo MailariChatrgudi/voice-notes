@@ -1,0 +1,5 @@
+We met today about the product launch. Priya will finish the landing page copy by Friday.
+Arjun needs to prepare the launch email draft and share it with marketing tomorrow.
+I will check the analytics dashboard setup before the campaign starts.
+We decided to launch the beta on September 20 if QA signs off.
+The open question is whether we need a separate onboarding video for first-time users.
